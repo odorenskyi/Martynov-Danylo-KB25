@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1777565847 source:c:\bmtp-lab8-Мартинов\prj\testdriver\main.cpp
+	<iostream>
+	<cmath>
+	"ModulesМартинов.h"
+
+1777567718 c:\bmtp-lab8-Мартинов\prj\modulesМартинов\modulesМартинов.h
+
