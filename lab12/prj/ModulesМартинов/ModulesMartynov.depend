@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1780313781 source:c:\bmtp-lab12\prj\modulesМартинов\main.cpp
+	<cmath>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"ModulesMartynov.h"
+
+1780312102 c:\bmtp-lab12\prj\modulesМартинов\modulesmartynov.h
+	<string>
+	<fstream>
+

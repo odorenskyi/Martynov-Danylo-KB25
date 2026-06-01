@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1779974173 source:c:\bmtp-lab8-Мартинов\prj\modulesМартинов\main.cpp
+	<cmath>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"ModulesМартинов.h"
+
+1779974303 c:\bmtp-lab8-Мартинов\prj\modulesМартинов\modulesМартинов.h
+	<string>
+	<fstream>
+
+1779901000 c:\bmtp-lab8-Мартинов\prj\modulesМартинов\modulesmartynov.h
+	<string>
+	<fstream>
+
+1780312158 source:c:\bmtp-lab12-Мартинов\prj\modulesМартинов\main.cpp
+	<cmath>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"ModulesМартинов.h"
+
+1780312102 c:\bmtp-lab12-Мартинов\prj\modulesМартинов\modulesМартинов.h
+	<string>
+	<fstream>
+
+1780312158 source:c:\bmtp-lab12\prj\modulesМартинов\main.cpp
+	<cmath>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"ModulesМартинов.h"
+
+1780312102 c:\bmtp-lab12\prj\modulesМартинов\modulesМартинов.h
+	<string>
+	<fstream>
+
