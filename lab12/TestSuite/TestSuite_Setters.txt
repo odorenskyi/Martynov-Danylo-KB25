@@ -1,0 +1,20 @@
+TC_ID: TC-04
+ACTION: setA(3.0)
+EXPECTED: true
+RESULT:
+---
+TC_ID: TC-05
+ACTION: setA(-3.0)
+EXPECTED: false
+RESULT:
+---
+TC_ID: TC-06
+ACTION: setDimensions(2.0, 3.0, 4.0)
+EXPECTED: true
+RESULT:
+---
+TC_ID: TC-07
+ACTION: setDimensions(-1.0, 3.0, 4.0)
+EXPECTED: false
+RESULT:
+---

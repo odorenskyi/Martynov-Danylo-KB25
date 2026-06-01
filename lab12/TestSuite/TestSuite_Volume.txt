@@ -1,0 +1,15 @@
+TC_ID: TC-01
+ACTION: Constructor(5.0, 10.0, 20.0)
+EXPECTED: 1000.0
+RESULT:
+---
+TC_ID: TC-02
+ACTION: Constructor(1.0, 1.0, 1.0)
+EXPECTED: 1.0
+RESULT:
+---
+TC_ID: TC-03
+ACTION: Constructor(-1.0, 5.0, 5.0)
+EXPECTED: 25.0
+RESULT:
+---

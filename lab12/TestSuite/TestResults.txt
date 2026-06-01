@@ -1,0 +1,13 @@
+=== Test Suite: C:\BMTP-lab12\TestSuite\TestSuite_Volume.txt ===
+PASS [TC-01] Expected: 1000.0  Got: 1000.0
+PASS [TC-02] Expected: 1.0  Got: 1.0
+PASS [TC-03] Expected: 25.0  Got: 25.0
+=== Results: 3 PASS, 0 FAIL ===
+
+=== Test Suite: C:\BMTP-lab12\TestSuite\TestSuite_Setters.txt ===
+PASS [TC-04] Expected: true  Got: true
+PASS [TC-05] Expected: false  Got: false
+PASS [TC-06] Expected: true  Got: true
+PASS [TC-07] Expected: false  Got: false
+=== Results: 4 PASS, 0 FAIL ===
+
